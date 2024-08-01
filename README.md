@@ -5,6 +5,7 @@ End of story...
 Features:
 - Can theoretically dump up to 10,000 clicks in 20 msec
 - Can click indefinitely
+- You can decide how long to send clicks for
 - Hover anywhere over application window to stop clicking
 - Tracks cursor position
 
