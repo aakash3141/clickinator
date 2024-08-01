@@ -10,3 +10,6 @@ Features:
 
 Requirements:
 - Need .NET Framework 2.0+ to run (I mean come on it's been out for 20 years already you should hopefully have it by now :P)
+
+Check out the development process on YouTube!
+Here I share some of the issues with using Windows API in C#, and I demonstrate the finished application: https://www.youtube.com/playlist?list=PLfhzbRKDrrStWgWaJeMtIwSQuwEuNAj32
