@@ -16,5 +16,8 @@ End of story...
 ![image](https://github.com/user-attachments/assets/4e0a007b-a18a-4bba-a38e-ec8782d14bab)
 ![image](https://github.com/user-attachments/assets/0325026c-2b2c-4030-be51-61883596db15)
 
+### Icon Attribution
+<a href="https://www.freepik.com/icon/arrow_14027070#fromView=keyword&page=1&position=6&uuid=4458ccef-9ce3-4760-b5a7-eaed8e14e7a8">Icon by hqrloveq</a>
+
 Check out the development process on YouTube!
 Here I share some of the issues with using Windows API in C#, and I demonstrate the finished application: https://www.youtube.com/playlist?list=PLfhzbRKDrrStWgWaJeMtIwSQuwEuNAj32
