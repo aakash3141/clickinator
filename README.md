@@ -11,6 +11,7 @@ End of story...
 
 ### Requirements
 - Needs .NET Framework 2.0+ to run
+- Needs Windows 2000+ to run
 
 ### Images
 ![image](https://github.com/user-attachments/assets/4e0a007b-a18a-4bba-a38e-ec8782d14bab)
